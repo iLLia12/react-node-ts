@@ -1,0 +1,1 @@
+npx sequelize-cli model:generate --models-path=users --migrations-path=users --name User --attributes firstName:string,lastName:string,email:string
